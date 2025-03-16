@@ -4,7 +4,7 @@
 
 The dataset used for this project is SafeWalkBD, obtained from Roboflow. It contains images labeled with multiple predefined categories.
 
-Dataset link: SafeWalkBD
+Dataset link: [SafeWalkBD](https://universe.roboflow.com/safewalkbd/safewalkbd-l8jbn)
 
 ## Predefined Categories
 
@@ -30,7 +30,7 @@ The original dataset includes the following 16 categories:
 
 The model used for obstacle detection is zero-shot-detection-transformer-torch. Detailed usage instructions can be found in the documentation:
 
-Model reference: Zero-Shot Object Detection
+Model reference: [Zero-Shot Object Detection](https://docs.voxel51.com/integrations/huggingface.html#zero-shot-object-detection)
 
 ## Objective
 
