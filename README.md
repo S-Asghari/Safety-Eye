@@ -38,3 +38,7 @@ This project specifically focuses on detecting the Obstacle category from the da
 
 - Class 0: No obstacle detected
 - Class 1: At least one obstacle detected
+
+## Hackathon
+
+This project was developed for the [Voxel51 Visual AI Hackathon](https://voxel51.com/computer-vision-events/visual-ai-hackathon-march-15-2025/).
