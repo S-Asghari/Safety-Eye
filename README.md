@@ -28,9 +28,7 @@ The original dataset includes the following 16 categories:
 
 ## Prediction Model
 
-The model used for obstacle detection is zero-shot-detection-transformer-torch. Detailed usage instructions can be found in the documentation:
-
-Model reference: [Zero-Shot Object Detection](https://docs.voxel51.com/integrations/huggingface.html#zero-shot-object-detection)
+The model used for obstacle detection is zero-shot-detection-transformer-torch. Detailed usage instructions can be found in the [documentation](https://docs.voxel51.com/integrations/huggingface.html#zero-shot-object-detection).
 
 ## Objective
 
